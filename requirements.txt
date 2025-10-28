@@ -1,0 +1,8 @@
+pandas 
+scikit-learn 
+imbalanced-learn 
+joblib 
+google-generativeai 
+requests
+Flask
+Flask-CORS

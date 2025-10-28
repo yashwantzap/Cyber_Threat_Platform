@@ -1,0 +1,25 @@
+# Ignore Python virtual environments
+venv/
+ENV/
+env/
+.env/
+
+# Ignore Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore machine learning model files
+*.pkl
+*.joblib
+*.h5
+*.ckpt
+
+# Ignore environment variable files
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
